@@ -1,0 +1,27 @@
+.one{
+    margin-right: 12%;
+}
+.one:hover{
+    cursor: pointer;
+}
+.newproduct{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+}
+.newproduct p{
+    color: #006ca6;
+}
+.newproduct input{
+    width: 90%;
+    height: 35px;
+    margin-top: 10px;
+}
+.input_number{
+    text-align: right;
+}
+.quantityInput{
+    width: 20%;
+}
+.orderCart{
+    margin-top: 5%;
+}

@@ -1,0 +1,24 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    margin-top: -65px;
+    background-image: url("../../images/intro-1614031760.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.MuiOutlinedInput-notchedOutline {
+    border-color: #ffffff !important;
+}
+.title{
+    color: rgb(0, 0, 0);
+}
+.heading h1{
+    height: 100px;
+    width: 100px;
+    color: black;
+}
+.logo{
+    height: 80%;
+    width: 80%;
+    margin-top: 30%;
+}

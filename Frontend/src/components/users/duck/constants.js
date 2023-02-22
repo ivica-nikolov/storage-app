@@ -1,0 +1,6 @@
+// eslint-disable-next-line
+export default{
+    FETCH_USERS_REQUEST:"FETCH_USERS_REQUEST",
+    FETCH_USERS_SUCCESS:"FETCH_USERS_SUCCESS",
+    FETCH_USERS_FAIL:"FETCH_USERS_FAIL"
+}

@@ -1,0 +1,23 @@
+{
+    "hostname": "localhost",
+    "port": 5000,
+    "security": {
+        "jwt_secret_key": "random"
+    },
+    "services": {
+        "proxy": {
+            "port": 5001
+        },
+		"authentication": {
+			"port": 5002
+		},
+        
+        "products": {
+			"port": 5003
+		},
+        "orders": {
+			"port": 5004
+		}
+        
+	}
+}
